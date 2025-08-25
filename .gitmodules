@@ -1,0 +1,3 @@
+[submodule "AMD-Dataset"]
+	path = AMD-Dataset
+	url = https://github.com/darkhedmatim/AMD-Dataset
